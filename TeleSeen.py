@@ -35,7 +35,7 @@ class BST(object):
    | |   |  __/ | | |  __/  ___) | |  __/ |  __/ | | | |
    |_|    \___| |_|  \___| |____/   \___|  \___| |_| |_|
                              
-    [#] @MOH3EN5 Channel       [+] @MasterDumper                         
+    [#] @MOH3EN5 Channel       [#] @SQLAnalyze                         
            
                 
     """
